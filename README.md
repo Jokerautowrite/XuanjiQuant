@@ -1,2 +1,0 @@
-# XuanjiQuant
-XuanjiQuant
