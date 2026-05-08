@@ -1,8 +1,22 @@
 # XuanjiQuant 全套量化公式
 
-## 一、全局总控进化母公式
+## 一、APEX自体认知迭代公式
 
-$$\Delta Q = \frac{C_{tick} \cdot \Lambda_{gene} \cdot \Omega_{market}}{H_{noise} \cdot T_{cycle}} \cdot \eta_{evo} \cdot \sigma_{valid}$$
+$$\Phi = \frac{K \cdot H \cdot P \cdot \Delta R}{N \cdot \tau}$$
+
+| 符号 | 含义 |
+|------|------|
+| Φ | APEX自体综合能力值 |
+| K | 知识储备（算法/推理/代码/经验） |
+| H | 历史记忆（轨迹/习惯/逻辑） |
+| P | 自主研究能力 |
+| ΔR | 核心内核（复盘/内化/提升） |
+| N | 遗忘抑制因子 |
+| τ | 自体迭代周期 |
+
+## 二、融合主进化公式
+
+$$\Delta G_{total} = \Delta G \cdot \Phi$$
 
 ## 二、核心神经-模型对齐公式
 
